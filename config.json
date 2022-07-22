@@ -1,7 +1,7 @@
 {
     "configVersion": 2,
     "appIdentifier": "com.avebe.fsm",
-    "appName": "Avebe-FSM",
+    "appName": "Siemens FSM powered by Mendix",
     "bundleName": {
         "main": "SiemensFSMPower",
         "dev": "SiemensFSMPoDev"
